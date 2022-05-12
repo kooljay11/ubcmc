@@ -1,5 +1,3 @@
-import UBCLogoWhite from './assets/ubc-logo-2018-crest-white-rgb72.png';
-
 export default function Header() {
     return (
         <div>
