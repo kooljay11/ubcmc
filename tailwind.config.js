@@ -13,7 +13,11 @@ module.exports = {
       "bungee": ["Bungee", "sans-serif"],
       "jetbrains-mono": ["JetBrainsMono", "sans-serif"]
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'mc-icon': "url('/src/images/background.jpg')",
+      }
+    },
   },
   plugins: [],
 }
