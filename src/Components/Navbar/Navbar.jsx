@@ -1,6 +1,6 @@
 export default function Navbar() {
     return (
-        <nav className="bg-color-2 text-white  p-2 font-jetbrains-mono text-lg font-semibold">
+        <nav className="bg-color-2 text-white  p-2 font-jetbrainsmono text-lg font-semibold">
             <div className="">
 
                 <ul className="list-none text-color-1 flex px-2">

@@ -8,10 +8,11 @@ module.exports = {
       "white": "#FFFFFF",
       "color-1": "#34572A",
       "color-2": "#B3D575",
+      "color-3": "#23272A",
     },
     fontFamily: {
       "bungee": ["Bungee", "sans-serif"],
-      "jetbrains-mono": ["JetBrainsMono", "sans-serif"]
+      "jetbrainsmono": ["JetBrainsMono", "sans-serif"]
     },
     extend: {
       backgroundImage: {
